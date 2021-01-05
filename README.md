@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<p align="center">
-[![Github stats](https://github-readme-stats.vercel.app/api?username=torokmark&count_private=true&show_icons=true&hide_border=true&theme=merko)](https://github.com/guiinow/github-readme-stats)
-</p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=torokmark&count_private=true&show_icons=true&hide_border=true&theme=merko)]
+
 <!--
 **torokmark/torokmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
