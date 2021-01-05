@@ -2,6 +2,11 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=torokmark&count_private=true&show_icons=true&hide_border=true&theme=merko)](https://github.com/guiinow/github-readme-stats)
 
+
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=torokmark">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=torokmark&layout=compact&theme=merko" />
+</a>
+
 <!--
 **torokmark/torokmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
